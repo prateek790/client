@@ -1,5 +1,5 @@
 import { Component, inject, OnInit } from '@angular/core';
-import { RegisterComponent } from "../register/register.component";
+import { RegisterComponent } from "../../register/register.component";
 import { HttpClient } from '@angular/common/http';
 
 @Component({
