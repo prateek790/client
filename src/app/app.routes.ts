@@ -4,6 +4,7 @@ import { MemberListComponent } from './features/members/member-list/member-list.
 import { MemberDetailedComponent } from './features/members/member-detailed/member-detailed.component';
 import { MessagesComponent } from './features/messages/messages.component';
 
+
 export const routes: Routes = [
     {path: '', component: HomeComponent},
     {path: 'members', component: MemberListComponent},
